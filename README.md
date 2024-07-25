@@ -9,7 +9,7 @@
 
 Подробные комментарии содержатся в файлах проекта, которые рекомендуется открыть в [Yandex DataSphere](https://cloud.yandex.ru/services/datasphere).
 
-![Скриншот работающего бота](![image](https://github.com/user-attachments/assets/bf610575-250f-4812-b517-d395fa6d8bbc))
+![image](https://github.com/user-attachments/assets/89f05cb6-64b7-4a65-bffd-3f05d0c656ee)
 
 ## Этапы работы
 
